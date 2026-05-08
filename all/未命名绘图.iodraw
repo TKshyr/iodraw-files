@@ -7,11 +7,11 @@
         <mxCell id="OAsmIJoKXVhEgOcDLXJU-1" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#000000;strokeColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="18" y="168" width="58" height="36" as="geometry" />
         </mxCell>
-        <mxCell id="OAsmIJoKXVhEgOcDLXJU-3" value="" style="whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#FFFFFF;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="118" y="121" width="222" height="222" as="geometry" />
-        </mxCell>
         <mxCell id="OAsmIJoKXVhEgOcDLXJU-4" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#000000;strokeColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="18" y="254" width="58" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="OAsmIJoKXVhEgOcDLXJU-5" value="Horizontal Container" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="152" y="142" width="200" height="200" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
