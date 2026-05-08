@@ -109,7 +109,7 @@
         <mxCell id="OAsmIJoKXVhEgOcDLXJU-49" value="中/低压缸" style="text;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontFamily=Times New Roman;fontSize=12;labelBackgroundColor=none;labelBorderColor=none;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="618" y="388.5" width="69" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="OAsmIJoKXVhEgOcDLXJU-77" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FFFFFF;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;endArrow=classic;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="OAsmIJoKXVhEgOcDLXJU-27">
+        <mxCell id="OAsmIJoKXVhEgOcDLXJU-77" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FFFFFF;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;endArrow=classic;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.184;entryY=0.006;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="OAsmIJoKXVhEgOcDLXJU-27" target="OAsmIJoKXVhEgOcDLXJU-49">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="690" y="371" as="targetPoint" />
             <Array as="points">
@@ -144,6 +144,9 @@
             <mxPoint x="120" y="168" as="sourcePoint" />
             <mxPoint x="170" y="118" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="OAsmIJoKXVhEgOcDLXJU-78" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="681" y="286" width="40" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
