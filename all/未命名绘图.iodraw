@@ -82,9 +82,6 @@
             <mxPoint x="415" y="176" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="OAsmIJoKXVhEgOcDLXJU-56" value="" style="edgeStyle=none;shape=link;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FFFFFF;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="OAsmIJoKXVhEgOcDLXJU-49" target="OAsmIJoKXVhEgOcDLXJU-52">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="OAsmIJoKXVhEgOcDLXJU-49" value="中/低压缸" style="text;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontFamily=Times New Roman;fontSize=12;labelBackgroundColor=none;labelBorderColor=none;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="618" y="388.5" width="69" height="26" as="geometry" />
         </mxCell>
@@ -93,6 +90,12 @@
         </mxCell>
         <mxCell id="OAsmIJoKXVhEgOcDLXJU-52" value="做功" style="text;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=12;fontColor=#FFFFFF;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="522" y="388.5" width="42" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="OAsmIJoKXVhEgOcDLXJU-57" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#FFFFFF;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;exitX=0.029;exitY=0.699;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="OAsmIJoKXVhEgOcDLXJU-49">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="376" y="455" as="sourcePoint" />
+            <mxPoint x="426" y="405" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
