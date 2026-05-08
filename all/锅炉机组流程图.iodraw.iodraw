@@ -61,7 +61,7 @@
         <mxCell id="OAsmIJoKXVhEgOcDLXJU-67" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FFFFFF;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="OAsmIJoKXVhEgOcDLXJU-33" target="OAsmIJoKXVhEgOcDLXJU-36">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="OAsmIJoKXVhEgOcDLXJU-33" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;background-color: rgb(0, 0, 0);&quot; color=&quot;#ffffff&quot;&gt;省煤器&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
+        <mxCell id="OAsmIJoKXVhEgOcDLXJU-33" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;background-color: rgb(0, 0, 0); font-size: 20px;&quot; color=&quot;#ffffff&quot;&gt;省煤器&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
           <mxGeometry x="179" y="184.5" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="OAsmIJoKXVhEgOcDLXJU-34" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
@@ -130,8 +130,8 @@
         <mxCell id="OAsmIJoKXVhEgOcDLXJU-58" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#000000;strokeColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="59" y="258" width="61" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="OAsmIJoKXVhEgOcDLXJU-59" value="煤" style="text;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Times New Roman;fontSize=12;fontColor=#FFFFFF;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="74" y="265" width="30" height="26" as="geometry" />
+        <mxCell id="OAsmIJoKXVhEgOcDLXJU-59" value="煤" style="text;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Times New Roman;fontSize=20;fontColor=#FFFFFF;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="70" y="260" width="38" height="36" as="geometry" />
         </mxCell>
         <mxCell id="OAsmIJoKXVhEgOcDLXJU-63" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#FFFFFF;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="OAsmIJoKXVhEgOcDLXJU-32" target="OAsmIJoKXVhEgOcDLXJU-33">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
