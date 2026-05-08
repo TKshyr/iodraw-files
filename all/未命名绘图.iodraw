@@ -85,8 +85,8 @@
             <mxPoint x="415" y="176" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="OAsmIJoKXVhEgOcDLXJU-49" value="中/低压缸" style="text;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontFamily=Times New Roman;fontSize=12;labelBackgroundColor=#000000;labelBorderColor=none;fontColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="618" y="388.5" width="69" height="26" as="geometry" />
+        <mxCell id="OAsmIJoKXVhEgOcDLXJU-49" value="中/低压缸" style="text;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontFamily=Times New Roman;fontSize=12;labelBackgroundColor=none;labelBorderColor=none;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="618" y="394" width="69" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
