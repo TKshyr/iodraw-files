@@ -61,7 +61,7 @@
         <mxCell id="OAsmIJoKXVhEgOcDLXJU-67" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FFFFFF;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="OAsmIJoKXVhEgOcDLXJU-33" target="OAsmIJoKXVhEgOcDLXJU-36">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="OAsmIJoKXVhEgOcDLXJU-33" value="&lt;font style=&quot;background-color: rgb(0, 0, 0); font-size: 15px;&quot; color=&quot;#ffffff&quot;&gt;省煤器&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;fontStyle=0" vertex="1" parent="1">
+        <mxCell id="OAsmIJoKXVhEgOcDLXJU-33" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;background-color: rgb(0, 0, 0); font-size: 15px;&quot; color=&quot;#ffffff&quot;&gt;省煤器&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;fontStyle=0" vertex="1" parent="1">
           <mxGeometry x="179" y="184.5" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="OAsmIJoKXVhEgOcDLXJU-34" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
