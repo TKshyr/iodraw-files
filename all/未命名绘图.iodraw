@@ -100,8 +100,11 @@
         <mxCell id="OAsmIJoKXVhEgOcDLXJU-58" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#000000;strokeColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="71" y="247.5" width="58" height="37" as="geometry" />
         </mxCell>
+        <mxCell id="OAsmIJoKXVhEgOcDLXJU-60" value="" style="edgeStyle=none;shape=link;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FFFFFF;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="OAsmIJoKXVhEgOcDLXJU-59" target="OAsmIJoKXVhEgOcDLXJU-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="OAsmIJoKXVhEgOcDLXJU-59" value="煤" style="text;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Times New Roman;fontSize=12;fontColor=#FFFFFF;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="104" y="438" width="30" height="26" as="geometry" />
+          <mxGeometry x="85" y="253" width="30" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
