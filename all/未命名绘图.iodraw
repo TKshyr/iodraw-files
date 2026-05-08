@@ -103,7 +103,7 @@
         <mxCell id="OAsmIJoKXVhEgOcDLXJU-59" value="煤" style="text;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Times New Roman;fontSize=12;fontColor=#FFFFFF;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="74" y="251.5" width="30" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="OAsmIJoKXVhEgOcDLXJU-63" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#FFFFFF;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="OAsmIJoKXVhEgOcDLXJU-32">
+        <mxCell id="OAsmIJoKXVhEgOcDLXJU-63" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#FFFFFF;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.006;entryY=0.376;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="OAsmIJoKXVhEgOcDLXJU-32" target="OAsmIJoKXVhEgOcDLXJU-11">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="120" y="168" as="sourcePoint" />
             <mxPoint x="170" y="118" as="targetPoint" />
