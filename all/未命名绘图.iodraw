@@ -41,7 +41,7 @@
           <mxGeometry x="614" y="385" width="77" height="37" as="geometry" />
         </mxCell>
         <mxCell id="OAsmIJoKXVhEgOcDLXJU-31" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#000000;strokeColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="276" y="398" width="58" height="37" as="geometry" />
+          <mxGeometry x="515" y="383" width="58" height="37" as="geometry" />
         </mxCell>
         <mxCell id="OAsmIJoKXVhEgOcDLXJU-32" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;background-color: rgb(0, 0, 0);&quot; color=&quot;#ffffff&quot;&gt;水&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
           <mxGeometry x="70" y="184.5" width="60" height="30" as="geometry" />
@@ -69,6 +69,12 @@
         </mxCell>
         <mxCell id="OAsmIJoKXVhEgOcDLXJU-42" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;background-color: rgb(0, 0, 0);&quot; color=&quot;#ffffff&quot;&gt;高压缸&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
           <mxGeometry x="625.5" y="284.5" width="54" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="OAsmIJoKXVhEgOcDLXJU-43" value="" style="shape=link;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1">
+          <mxGeometry width="100" relative="1" as="geometry">
+            <mxPoint x="315" y="176" as="sourcePoint" />
+            <mxPoint x="415" y="176" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
