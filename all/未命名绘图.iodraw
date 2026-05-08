@@ -7,17 +7,11 @@
         <mxCell id="OAsmIJoKXVhEgOcDLXJU-1" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#000000;strokeColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="18" y="168" width="58" height="36" as="geometry" />
         </mxCell>
-        <mxCell id="OAsmIJoKXVhEgOcDLXJU-7" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="161" y="166.5" width="78" height="37.5" as="geometry" />
-        </mxCell>
         <mxCell id="OAsmIJoKXVhEgOcDLXJU-9" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#000000;strokeColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="18" y="252" width="58" height="36" as="geometry" />
         </mxCell>
-        <mxCell id="OAsmIJoKXVhEgOcDLXJU-10" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="296" y="166.5" width="78" height="37.5" as="geometry" />
-        </mxCell>
         <mxCell id="OAsmIJoKXVhEgOcDLXJU-11" value="" style="shape=card;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="160" y="349" width="80" height="100" as="geometry" />
+          <mxGeometry x="182" y="63" width="383" height="225" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
