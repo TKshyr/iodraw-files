@@ -109,6 +109,9 @@
         <mxCell id="OAsmIJoKXVhEgOcDLXJU-49" value="中/低压缸" style="text;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontFamily=Times New Roman;fontSize=12;labelBackgroundColor=none;labelBorderColor=none;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="618" y="388.5" width="69" height="26" as="geometry" />
         </mxCell>
+        <mxCell id="OAsmIJoKXVhEgOcDLXJU-77" value="" style="edgeStyle=none;shape=link;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FFFFFF;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="OAsmIJoKXVhEgOcDLXJU-51" target="OAsmIJoKXVhEgOcDLXJU-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="OAsmIJoKXVhEgOcDLXJU-51" value="再热器" style="text;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Times New Roman;fontSize=12;fontColor=#FFFFFF;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="470" y="283" width="54" height="26" as="geometry" />
         </mxCell>
