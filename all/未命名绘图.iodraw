@@ -74,7 +74,7 @@
           <mxGeometry x="415" y="27" width="40" height="26" as="geometry" />
         </mxCell>
         <mxCell id="OAsmIJoKXVhEgOcDLXJU-35" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;background-color: rgb(0, 0, 0); font-size: 15px;&quot; color=&quot;#ffffff&quot;&gt;锅炉&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="165" y="309" width="48" height="30" as="geometry" />
+          <mxGeometry x="229" y="288" width="48" height="30" as="geometry" />
         </mxCell>
         <mxCell id="OAsmIJoKXVhEgOcDLXJU-70" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FFFFFF;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="OAsmIJoKXVhEgOcDLXJU-36" target="OAsmIJoKXVhEgOcDLXJU-37">
           <mxGeometry relative="1" as="geometry" />
