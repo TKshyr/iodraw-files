@@ -112,8 +112,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="OAsmIJoKXVhEgOcDLXJU-51" value="再热器" style="text;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Times New Roman;fontSize=12;fontColor=#FFFFFF;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="470" y="283" width="54" height="26" as="geometry" />
+        <mxCell id="OAsmIJoKXVhEgOcDLXJU-51" value="再热器" style="text;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Times New Roman;fontSize=15;fontColor=#FFFFFF;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="466" y="281" width="63" height="30" as="geometry" />
         </mxCell>
         <mxCell id="OAsmIJoKXVhEgOcDLXJU-52" value="做功" style="text;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=12;fontColor=#FFFFFF;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="525" y="388.5" width="42" height="26" as="geometry" />
@@ -140,7 +140,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="OAsmIJoKXVhEgOcDLXJU-78" value="汽机" style="text;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=20;fontColor=#FFFFFF;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="570" y="260" width="58" height="36" as="geometry" />
+          <mxGeometry x="562" y="232" width="58" height="36" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
