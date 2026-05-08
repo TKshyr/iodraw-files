@@ -145,7 +145,7 @@
             <mxPoint x="170" y="118" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="OAsmIJoKXVhEgOcDLXJU-78" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;background-color: rgb(0, 0, 0);&quot; color=&quot;#ffffff&quot;&gt;Text&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+        <mxCell id="OAsmIJoKXVhEgOcDLXJU-78" value="Text" style="text;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="579" y="265" width="39" height="26" as="geometry" />
         </mxCell>
       </root>
